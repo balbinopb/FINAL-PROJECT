@@ -1,9 +1,20 @@
-#include <iostream>
-
-using namespace std;
+#include "header.h"
 
 int main(){
     
-    cout<<"hello world"<<endl;
+    ListMember LM;
+    ListBook LB;
+    ListBorrow LBW;
+    ListStaff LS;
+    ListReservation LR;
+
+    createListMember(LM);
+    createListBook(LB);
+    createListBorrow(LBW);
+    createListStaff(LS);
+    createListReservation(LR);
+
+    
+
     return 0;
 }
