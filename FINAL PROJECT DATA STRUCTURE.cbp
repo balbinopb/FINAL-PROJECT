@@ -32,7 +32,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="header.h" />
+		<Unit filename="library management.h" />
 		<Unit filename="library_management.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="menu.cpp" />
