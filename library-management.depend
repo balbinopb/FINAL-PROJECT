@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1737063087 source:c:\users\dinub\downloads\data structure\library-management\book.cpp
+	"library_management.h"
+
+1737063103 c:\users\dinub\downloads\data structure\library-management\library_management.h
+	<iostream>
+
+1737064658 source:c:\users\dinub\downloads\data structure\library-management\borrow.cpp
+	"library_management.h"
+
+1737061820 source:c:\users\dinub\downloads\data structure\library-management\member.cpp
+	"library_management.h"
+
+1737088984 source:c:\users\dinub\downloads\data structure\library-management\menu.cpp
+	"library_management.h"
+
+1737065295 source:c:\users\dinub\downloads\data structure\library-management\main.cpp
+	"library_management.h"
+
